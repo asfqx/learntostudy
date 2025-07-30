@@ -262,6 +262,12 @@ textarea {
   overflow: auto;
 }
 
+ul {
+  list-style-type: none;
+  padding-left: 0; /* Убирает отступ слева */
+  margin-left: 0;  /* Убирает отступ слева */
+}
+
 /**
  * 1. Add the correct box sizing in IE 10.
  * 2. Remove the padding in IE 10.
