@@ -9,12 +9,13 @@
 @import url(../blocks/logo/_place/logo_place_header.css);
 @import url(../blocks/logo/_place/logo_place_footer.css);
 @import url(../blocks/two-columns/two-columns.css);
-@import url(../blocks/two-columns/_style/two-columns_style_position.css);
+@import url(../blocks/two-columns/_style/two-columns_style_margin.css);
+@import url(../blocks/two-columns/_width/two-columns_width_s.css);
 @import url(../blocks/two-columns/__brief/two-columns__brief.css);
 @import url(../blocks/two-columns/__main-text/two-columns__main-text.css);
 @import url(../blocks/two-columns/__paragraph/two-columns__paragraph.css);
 @import url(../blocks/digits/digits.css);
-@import url(../blocks/digits/_style/digits_style_margin-bottom.css);
+@import url(../blocks/digits/_style/digits_style_margin.css);
 @import url(../blocks/section-title/section-title.css);
 @import url(../blocks/section-title/_position/section-title_position_center.css);
 @import url(../blocks/section-title/_style/section-title_style_margin-top.css);
@@ -57,4 +58,7 @@
 @import url(../blocks/cards/__image/cards__image.css);
 @import url(../blocks/cards/__description/cards__description.css);
 @import url(../blocks/cards/__title/cards__title.css);
+@import url(../blocks/video/video.css);
+@import url(../blocks/video/__videos-row/video__videos-row.css);
 @import url(../blocks/cards/__item/_style/cards__item_style_margin-top.css);
+@import url(../blocks/oakley/oakley.css);

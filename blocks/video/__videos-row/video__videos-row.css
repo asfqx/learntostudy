@@ -1,0 +1,7 @@
+.video__videos-row {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    top: 50px;
+    gap: 10px;
+}
