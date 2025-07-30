@@ -62,3 +62,14 @@
 @import url(../blocks/video/__videos-row/video__videos-row.css);
 @import url(../blocks/cards/__item/_style/cards__item_style_margin-top.css);
 @import url(../blocks/oakley/oakley.css);
+@import url(../blocks/khan/khan.css);
+@import url(../blocks/khan/__book-pic/khan__book-pic.css);
+@import url(../blocks/khan/__book_container/khan__book-container.css);
+@import url(../blocks/khan/__container/khan__container.css);
+@import url(../blocks/khan/__author/khan__author.css);
+@import url(../blocks/khan/__title/khan__title.css);
+@import url(../blocks/khan/__quote/khan__quote.css);
+@import url(../blocks/khan/__quote-author/khan__quote-author.css);
+@import url(../blocks/khan/__quote-author-subline/khan__quote-author-subline.css);
+@import url(../blocks/khan/__book_container/khan__book-container.css);
+@import url(../blocks/khan/__buy-link/khan__buy-link.css);
