@@ -73,3 +73,6 @@
 @import url(../blocks/khan/__quote-author-subline/khan__quote-author-subline.css);
 @import url(../blocks/khan/__book_container/khan__book-container.css);
 @import url(../blocks/khan/__buy-link/khan__buy-link.css);
+@import url(../blocks/resources/resources.css);
+@import url(../blocks/resources/__logo_container/resources__logo-container.css);
+@import url(../blocks/resources/__logo/resources__logo.css);
